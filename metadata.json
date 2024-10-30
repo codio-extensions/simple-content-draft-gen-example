@@ -2,7 +2,7 @@
   "name": "Custom Assistant Example",
   "type": "helper",
   "properties": {
-    "user_type": "all", 
+    "user_type": "instructor", 
     "component": "all"
   }
 }
