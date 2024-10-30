@@ -1,5 +1,5 @@
 {
-  "name": "Custom Assistant Example",
+  "name": "Custom Content gen Assistant Example",
   "type": "helper",
   "properties": {
     "user_type": "instructor", 
